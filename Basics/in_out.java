@@ -1,5 +1,5 @@
 import java.util.*;
-public class in_out {
+public class In_out {
 
   public static void main(String[] args) {
       // Write your code here

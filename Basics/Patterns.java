@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Patterns {
 
     public static void pattern0(int n) {
         for (int i = 1; i <= n; i++) {
